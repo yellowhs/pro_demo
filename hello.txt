@@ -13,3 +13,4 @@ hello git!master test
 hello git!hot-fix test
 hello git!hot-fix lhc test
 hello git!hot-fix dongfangbubai test
+hello git!hot-fix ssh test
